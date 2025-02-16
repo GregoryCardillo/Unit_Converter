@@ -15,7 +15,7 @@ No installation required. Simply clone the repository and open index.html in you
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/unit-converter.git
+git clone https://github.com/GregoryCardillo/unit_converter.git
 cd unit-converter
 Usage
 Select the conversion type (length, weight, or temperature).
