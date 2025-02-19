@@ -9,7 +9,7 @@ Features
 - Support for weight and temperature conversion (to be implemented).
 - User-friendly interface with dynamic result display.
 - Prevents invalid inputs and handles errors gracefully.
-- 
+  
 Installation
 
 No installation required. Simply clone the repository and open index.html in your browser.
